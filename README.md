@@ -1,4 +1,4 @@
-## 📈 📉 Plotter Reverse Polish notation
+## 📈 📉 Plotter based on the Reverse Polish notation
 
 ### Calculation and plotting based on Reverse Polish notation
 🚀 Developed in a structured programming style in pure C language.
