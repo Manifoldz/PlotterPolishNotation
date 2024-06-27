@@ -2,6 +2,7 @@
 
 ### Calculation and plotting based on Reverse Polish notation
 🚀 Developed in a structured programming style in pure C language.
+
 🔦 Implemented Stack structures on arrays and singly linked lists
 
 ![Screenshot_of_Game](images/Screenshot_of_Plotter1.png)
